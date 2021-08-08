@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/700296719254159410)](https://discord.com/users/700296719254159410)
+[![Discord Presence](http://127.0.0.1:5000/api/warforpeace)](https://discord.com/users/700296719254159410)
