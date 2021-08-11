@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Discord Presence](http://127.0.0.1:5000/api/warforpeace)]
+[![Telegram Presence](https://r10-iletisim.herokuapp.com/api/telegram_profile/hkeydesign)](https://t.me/hkeydesign) [![Telegram Presence](https://r10-iletisim.herokuapp.com/api/telegram_profile/pyturkey)](https://t.me/pyturkey)
